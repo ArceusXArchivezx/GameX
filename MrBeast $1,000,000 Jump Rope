@@ -1,0 +1,2 @@
+warn("Loading! Please be patient")
+loadstring(game:HttpGet("https://protected-roblox-scripts.onrender.com/9c99403dec6033eb21ab413b9a26d135"))()
